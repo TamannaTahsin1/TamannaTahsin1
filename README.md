@@ -1,6 +1,4 @@
 ### Hi there 👋
-https://raw.githubusercontent.com/TamannaTahsin1/TamannaTahsin1/main/gitCover.png
-
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamannaTahsin1&theme=monokai&border_radius=4)](https://git.io/streak-stats)
