@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![The San Juan Mountains are beautiful!](/img/gitCover.png "San Juan Mountains")
 
@@ -13,8 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,tailwind,nodejs,mongodb,firebase)](https://skillicons.dev)
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+</div>
 
 # Overview
 - 🌱 I’m currently learning Next.js
