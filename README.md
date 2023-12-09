@@ -13,7 +13,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,tailwind,nodejs,mongodb,firebase)](https://skillicons.dev)
 </div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+
 
 # Overview
 - 🌱 I’m currently learning Next.js
