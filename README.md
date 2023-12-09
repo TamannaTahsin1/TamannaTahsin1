@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[![The San Juan Mountains are beautiful!](/img/gitCover.png "San Juan Mountains")]
+
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamannaTahsin1&theme=monokai&border_radius=4)](https://git.io/streak-stats)
@@ -9,6 +12,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,tailwind,nodejs,mongodb,firebase)](https://skillicons.dev)
 </div>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 # Overview
 - 🌱 I’m currently learning Next.js
