@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![The San Juan Mountains are beautiful!](/img/gitCover.png "San Juan Mountains")]
+![The San Juan Mountains are beautiful!](/img/gitCover.png "San Juan Mountains")
 
 <div align="center">
 
