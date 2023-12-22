@@ -1,6 +1,6 @@
 
 
-![The San Juan Mountains are beautiful!](/img/cover.png "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/img/banner.png "San Juan Mountains")
 
 <div align="center">
 
