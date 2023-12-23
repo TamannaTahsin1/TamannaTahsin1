@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   
-  <a href="https://discordapp.com/yourdiscordtag" style="text-decoration: none; padding: 10px; border: 2px solid; border-image: linear-gradient(to right, #7289DA, #5865F2); border-image-slice: 1; border-radius: 5px; color: #7289DA;">
+  <a href="https://discordapp.com/yourdiscordtag" style="text-decoration: none; padding: 20px; border: 2px solid; border-image: linear-gradient(to right, #7289DA, #5865F2); border-image-slice: 1; border-radius: 5px; color: #7289DA;">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
